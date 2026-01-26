@@ -44,7 +44,7 @@
     "@babel/core": "7.28.6",
     "@babel/preset-env": "7.28.6",
     "@babel/preset-react": "7.28.5",
-    "@babel/preset-typescript": "7.24.7",
+    "@babel/preset-typescript": "7.28.5",
     "@react-native-gtk4/codegen": "workspace:*",
     "@ts-for-gir/cli": "workspace:*",
     "@types/jest": "29.5.12",
