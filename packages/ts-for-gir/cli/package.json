@@ -54,7 +54,7 @@
         "cli"
     ],
     "devDependencies": {
-        "@types/inquirer": "9.0.7",
+        "@types/inquirer": "9.0.9",
         "@types/node": "25.0.10",
         "@types/yargs": "17.0.33",
         "@typescript-eslint/eslint-plugin": "8.54.0",
