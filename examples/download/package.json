@@ -9,7 +9,7 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "@types/node": "25.0.10",
+    "@types/node": "25.1.0",
     "axios": "1.13.4",
     "node-gtk": "1.0.0",
     "react": "19.2.4",
