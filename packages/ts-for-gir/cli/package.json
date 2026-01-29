@@ -73,7 +73,7 @@
         "@ts-for-gir/lib": "workspace:*",
         "colorette": "2.0.20",
         "cosmiconfig": "9.0.0",
-        "inquirer": "13.2.1",
+        "inquirer": "13.2.2",
         "tiny-glob": "0.2.9",
         "yargs": "18.0.0"
     }
