@@ -43,7 +43,7 @@
         "eslint": "9.39.2",
         "eslint-config-prettier": "10.1.8",
         "eslint-plugin-prettier": "5.5.5",
-        "fast-xml-parser": "5.3.4",
+        "fast-xml-parser": "5.3.5",
         "prettier": "3.8.1",
         "rimraf": "6.1.2",
         "typescript": "5.9.3"
