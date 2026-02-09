@@ -28,8 +28,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -53,8 +53,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -72,8 +72,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -91,8 +91,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -110,8 +110,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -129,8 +129,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -148,8 +148,8 @@ importers:
         version: link:../../packages/react-native-gtk4
     devDependencies:
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -167,8 +167,8 @@ importers:
         specifier: 25.2.1
         version: 25.2.1
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       typescript:
         specifier: 5.9.3
         version: 5.9.3
@@ -240,8 +240,8 @@ importers:
         specifier: 25.2.1
         version: 25.2.1
       '@types/react':
-        specifier: 19.2.11
-        version: 19.2.11
+        specifier: 19.2.13
+        version: 19.2.13
       '@types/react-reconciler':
         specifier: 0.28.8
         version: 0.28.8
@@ -1922,8 +1922,8 @@ packages:
   '@types/react-reconciler@0.28.8':
     resolution: {integrity: sha512-SN9c4kxXZonFhbX4hJrZy37yw9e7EIxcpHCxQv5JUS18wDE5ovkQKlqQEkufdJCCMfuI9BnjUJvhYeJ9x5Ra7g==}
 
-  '@types/react@19.2.11':
-    resolution: {integrity: sha512-tORuanb01iEzWvMGVGv2ZDhYZVeRMrw453DCSAIn/5yvcSVnMoUMTyf33nQJLahYEnv9xqrTNbgz4qY5EfSh0g==}
+  '@types/react@19.2.13':
+    resolution: {integrity: sha512-KkiJeU6VbYbUOp5ITMIc7kBfqlYkKA5KhEHVrGMmUUMt7NeaZg65ojdPk+FtNrBAOXNVM5QM72jnADjM+XVRAQ==}
 
   '@types/stack-utils@2.0.3':
     resolution: {integrity: sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==}
@@ -6328,9 +6328,9 @@ snapshots:
 
   '@types/react-reconciler@0.28.8':
     dependencies:
-      '@types/react': 19.2.11
+      '@types/react': 19.2.13
 
-  '@types/react@19.2.11':
+  '@types/react@19.2.13':
     dependencies:
       csstype: 3.2.3
 
